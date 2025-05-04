@@ -2,10 +2,10 @@
 
 Bachelor's thesis code base. 
 
-Thesis Title: Comparative Analysis of Sentiment Classification: BERT Deep Learning Approach vs Naïve Bayes Probabilistic Model
-Author: Mira Radakovic
-University: Vienna University of Economics and Business
-Year: 2025
+Thesis Title: Comparative Analysis of Sentiment Classification: BERT Deep Learning Approach vs Naïve Bayes Probabilistic Model \\
+Author: Mira Radakovic \\
+University: Vienna University of Economics and Business \\
+Year: 2025 \\
 Abstract:
 Natural language processing dominates the field of data science in
 The 21st century. The core of this thesis is sentiment analysis, a subfield
