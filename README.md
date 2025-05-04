@@ -2,6 +2,8 @@
 
 Bachelor's thesis code base. 
 
+DISCLAIMER: The code was written and run in Google Colab, where the built-in AI copilot was used.
+
 Thesis Title: Comparative Analysis of Sentiment Classification: BERT Deep Learning Approach vs Naïve Bayes Probabilistic Model 
 
 Author: Mira Radakovic 
@@ -29,3 +31,5 @@ performance of both models is worse than previous research suggests.
 Contributing factors to this weaker performance are investigated in
 this thesis, as the performance is examined in detail at the macro- and
 micro-level.
+
+
